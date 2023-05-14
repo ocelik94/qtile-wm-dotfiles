@@ -1,0 +1,29 @@
+polybar|notice:  Parsing config file: /home/ocelik/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 1686)
+polybar|warn:  The config parameter 'settings.throttle-input-for' is deprecated, it will be removed in the future. Please remove it from your config
+polybar|warn:  The config parameter 'settings.throttle-output' is deprecated, it will be removed in the future. Please remove it from your config
+polybar|warn:  The config parameter 'settings.throttle-output-for' is deprecated, it will be removed in the future. Please remove it from your config
+polybar|notice:  Loading module 'qtile' of type 'internal/xworkspaces'
+polybar|notice:  Loading module 'sep' of type 'custom/text'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'sep' of type 'custom/text'
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'sep' of type 'custom/text'
+polybar|notice:  Loading module 'filesystem' of type 'internal/fs'
+polybar|notice:  Loading module 'volume' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_02_02.0.analog-stereo
+polybar|notice:  Loading module 'sep' of type 'custom/text'
+polybar|notice:  Loading module 'ethernet' of type 'internal/network'
+polybar|notice:  Loading module 'sep' of type 'custom/text'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loaded 12 modules
+polybar|notice:  Loaded font "JetBrainsMono Nerd Font:bold:size=10" (name=JetBrainsMono Nerd Font, offset=3, file=/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Bold.ttf)
+polybar|notice:  Loaded font "Symbols Nerd Font:size=12" (name=Symbols Nerd Font, offset=3, file=/usr/share/fonts/TTF/SymbolsNerdFont-Regular.ttf)
+polybar|notice:  Loaded font "Symbols Nerd Font:size=24" (name=Symbols Nerd Font, offset=5, file=/usr/share/fonts/TTF/SymbolsNerdFont-Regular.ttf)
+polybar|notice:  Loaded font "Iosevka Nerd Font:bold:size=12" (name=Iosevka Nerd Font, offset=4, file=/usr/share/fonts/TTF/IosevkaNerdFont-Bold.ttf)
+polybar|notice:  Loaded font "archcraft:size=14" (name=archcraft, offset=4, file=/home/ocelik/.local/share/fonts/ttf/archcraft.ttf)
+polybar|notice:  Loaded font "Symbols Nerd Font:size=14" (name=Symbols Nerd Font, offset=3, file=/usr/share/fonts/TTF/SymbolsNerdFont-Regular.ttf)
+polybar|notice:  Loaded font "Symbols Nerd Font:size=16" (name=Symbols Nerd Font, offset=3, file=/usr/share/fonts/TTF/SymbolsNerdFont-Regular.ttf)
+polybar|notice:  Loaded font "JetBrainsMono Nerd Font:bold:size=15" (name=JetBrainsMono Nerd Font, offset=2, file=/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Bold.ttf)
+polybar|warn:  Ignoring unsupported wm-restack option 'qtile'
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
